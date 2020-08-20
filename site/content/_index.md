@@ -13,7 +13,7 @@ intro:
   text: " "
 products:
   - image: img/screen-shot-2020-08-19-at-2.26.20-pm.png
-    text: Complete nutrition info for easy tracking
+    text: Complete nutrition info for easy tracking Hello
   - image: img/screen-shot-2020-08-19-at-2.27.01-pm.png
     text: Personalized plans for your convenience
 values:
